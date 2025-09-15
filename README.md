@@ -71,10 +71,10 @@ Add a cron job to run the script every 5 minutes:
 
 Every run appends one line to vk7dik_watch.log. When status changes from OFFLINE → ONLINE, extra alert lines are logged.
 
-[2025-09-15 10:25:00] status=OFFLINE, last=ONLINE, source=onairlogbook, callsign=VK7DIK
-[2025-09-15 12:40:00] status=ONLINE, last=OFFLINE, source=onairlogbook, callsign=VK7DIK
-[2025-09-15 12:40:00] ALERT pushover sent
-[2025-09-15 12:40:00] ALERT transition OFFLINE -> ONLINE
+[2025-09-15 10:25:00] status=OFFLINE, last=ONLINE, source=onairlogbook, callsign=VK7DIK  
+[2025-09-15 12:40:00] status=ONLINE, last=OFFLINE, source=onairlogbook, callsign=VK7DIK  
+[2025-09-15 12:40:00] ALERT pushover sent  
+[2025-09-15 12:40:00] ALERT transition OFFLINE -> ONLINE  
 
 
 
