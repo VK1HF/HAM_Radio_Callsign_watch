@@ -7,7 +7,7 @@ It logs results on every run and sends a **Pushover** notification whenever the 
 
 By default, this script is set up for **VK7DIK**, but you can easily change the callsign in the config section. If you want to track multiple callsigns, make a copy of the script for each one and run them separately from `crontab`.
 
-***bold italic*** This script is designed to let you know when your mates are on air and feeling sociable. (if they are not, they will not update their status)
+*** This script is designed to let you know when your mates are on air and feeling sociable. (if they are not, they will not update their status) ***
 
 ---
 
